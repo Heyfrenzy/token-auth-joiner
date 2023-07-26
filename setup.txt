@@ -1,0 +1,18 @@
+Questions? Issues? => .gg/michitools 
+
+1.) Add all files to your Replit (PYTHON) [DO NOT ADD 'authorizer.py' and 'tokens.txt']
+2.) Run the Replit once and copy your WEBVIEW Link
+3.) Create a new Discord Bot and activate all 3 Intents
+4.) Go to OAUTH2, then to General and add the Webview Link without the '/' at the end as a Redirect
+5.) Go to OAUTH2, then URL-Generator and scope 'identify' & 'guilds.join' (in this order)
+6.) Copy the generated URL and save it.
+7.) Fill out the Bot Token, Secret & ID at 'joiner.py' and 'main.py'
+8.) Paste the Generated URL in 'main.py' at line 19
+9.) Webhook isnt requiered
+10.) Restart your Replit
+11.) Put your tokens in 'tokens.txt' (on your computer)
+12.) Run 'authorizer.py' and paste the generated URL
+13.) Wait till all Tokens authorized and restart your Replit
+14.) Run 'joiner.py' in Replit
+
+15.) Enjoy! <3
